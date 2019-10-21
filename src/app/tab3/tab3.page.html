@@ -6,4 +6,7 @@
   </ion-toolbar>
 </ion-header>
 
-<ion-content></ion-content>
+<ion-content>
+  <ion-button (click)="openCamera()">打开本地相册</ion-button>
+  <img *ngIf="base64Image" [src]="base64Image">
+</ion-content>
