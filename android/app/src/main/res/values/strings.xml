@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">knowhow-app</string>
-    <string name="title_activity_main">knowhow-app</string>
+    <string name="app_name">中德诺浩</string>
+    <string name="title_activity_main">中德诺浩</string>
     <string name="package_name">com.tedu.knowhow</string>
     <string name="fileprovider_authority">com.tedu.knowhow.fileprovider</string>
     <string name="custom_url_scheme">com.tedu.knowhow</string>
