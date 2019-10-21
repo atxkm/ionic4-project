@@ -1,0 +1,7 @@
+{
+  "appId": "com.tedu.knowhow",
+  "appName": "knowhow-app",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}

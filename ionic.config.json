@@ -1,0 +1,7 @@
+{
+  "name": "knowhow-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
